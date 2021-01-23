@@ -11,9 +11,9 @@
 
 * В результате тестирования выявлены следующие дефекты:
 
-1) https://github.com/denis-study/KeyValidator1/issues/1
-2) https://github.com/denis-study/KeyValidator1/issues/2
-3) https://github.com/denis-study/KeyValidator1/issues/3
+1) [баг-репорт 1](https://github.com/denis-study/KeyValidator1/issues/1)
+2) [баг-репорт 2](https://github.com/denis-study/KeyValidator1/issues/2)
+3) [баг-репорт 3](https://github.com/denis-study/KeyValidator1/issues/3)
 
 
 
